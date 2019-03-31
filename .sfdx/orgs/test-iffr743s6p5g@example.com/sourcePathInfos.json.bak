@@ -2,14 +2,14 @@
     [
         "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app",
         {
+            "state": "n",
             "sourcePath": "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1553989796231,
             "changeTime": 1553989796231,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main",
         {
+            "state": "n",
             "sourcePath": "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1553989796231,
             "changeTime": 1553989796231,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,27 +32,27 @@
     [
         "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default",
         {
+            "state": "u",
             "sourcePath": "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1553990934689,
             "changeTime": 1553990934689,
-            "contentHash": "ceb8794726dcd10a8d4f0e7d274189302b2dfe71",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "ceb8794726dcd10a8d4f0e7d274189302b2dfe71"
         }
     ],
     [
         "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\aura",
         {
+            "state": "n",
             "sourcePath": "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\aura",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1553989796231,
             "changeTime": 1553989796231,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -60,14 +60,14 @@
     [
         "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\lwc",
         {
+            "state": "n",
             "sourcePath": "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\lwc",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1553989915324,
             "changeTime": 1553989915324,
             "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -75,14 +75,14 @@
     [
         "C:\\Salesforce\\SFDX\\SFDX_Demo",
         {
+            "state": "n",
             "sourcePath": "C:\\Salesforce\\SFDX\\SFDX_Demo",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1553989857275,
             "changeTime": 1553989857275,
             "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
@@ -90,261 +90,261 @@
     [
         "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\objects\\Manfacturer__c\\Manfacturer__c.object-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\objects\\Manfacturer__c\\Manfacturer__c.object-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 2071,
             "modifiedTime": 1553990934629,
             "changeTime": 1553990934629,
-            "contentHash": "6c4ab419e4f2fda543cdc45101141582169827d6",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "6c4ab419e4f2fda543cdc45101141582169827d6"
         }
     ],
     [
         "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\objects\\Manfacturer__c\\fields\\Employees__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\objects\\Manfacturer__c\\fields\\Employees__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 392,
             "modifiedTime": 1553990934634,
             "changeTime": 1553990934634,
-            "contentHash": "2a8def6601d87b30645606a3ba446788af79eb8f",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "2a8def6601d87b30645606a3ba446788af79eb8f"
         }
     ],
     [
         "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\objects\\Manfacturer__c\\fields\\Type__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\objects\\Manfacturer__c\\fields\\Type__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 1249,
             "modifiedTime": 1553990934636,
             "changeTime": 1553990934636,
-            "contentHash": "12cd28245e273a4b0f863f4d3c670e080c90d44b",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "12cd28245e273a4b0f863f4d3c670e080c90d44b"
         }
     ],
     [
         "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\objects\\Manfacturer__c\\listViews\\All.listView-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\objects\\Manfacturer__c\\listViews\\All.listView-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 204,
             "modifiedTime": 1553990934639,
             "changeTime": 1553990934639,
-            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd"
         }
     ],
     [
         "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\objects\\Manfacturer_Project__c\\Manfacturer_Project__c.object-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\objects\\Manfacturer_Project__c\\Manfacturer_Project__c.object-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 2096,
             "modifiedTime": 1553990934656,
             "changeTime": 1553990934656,
-            "contentHash": "3f965e55546bd73ca89b8d5b71fe397775319a37",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "3f965e55546bd73ca89b8d5b71fe397775319a37"
         }
     ],
     [
         "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\objects\\Manfacturer_Project__c\\fields\\Manfacturer__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\objects\\Manfacturer_Project__c\\fields\\Manfacturer__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 634,
             "modifiedTime": 1553990934659,
             "changeTime": 1553990934659,
-            "contentHash": "2886a386b52bb3691830a4b3f59ff904e1adc6bf",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "2886a386b52bb3691830a4b3f59ff904e1adc6bf"
         }
     ],
     [
         "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\objects\\Manfacturer_Project__c\\listViews\\All.listView-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\objects\\Manfacturer_Project__c\\listViews\\All.listView-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 204,
             "modifiedTime": 1553990934659,
             "changeTime": 1553990934659,
-            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd"
         }
     ],
     [
         "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\layouts\\Manfacturer__c-Manfacturer Layout.layout-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\layouts\\Manfacturer__c-Manfacturer Layout.layout-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 2362,
             "modifiedTime": 1553990934669,
             "changeTime": 1553990934669,
-            "contentHash": "17aeb8e33afc94a17514ce459a00c7a810c3060e",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "17aeb8e33afc94a17514ce459a00c7a810c3060e"
         }
     ],
     [
         "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\layouts\\Manfacturer_Project__c-Manfacturer Project Layout.layout-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\layouts\\Manfacturer_Project__c-Manfacturer Project Layout.layout-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 1934,
             "modifiedTime": 1553990934674,
             "changeTime": 1553990934674,
-            "contentHash": "855ee2ab5d733b47bc6f120ac6b056460ade9e05",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "855ee2ab5d733b47bc6f120ac6b056460ade9e05"
         }
     ],
     [
         "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\tabs\\Manfacturer_Project__c.tab-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\tabs\\Manfacturer_Project__c.tab-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 231,
             "modifiedTime": 1553990934676,
             "changeTime": 1553990934676,
-            "contentHash": "c87075ad8e080098d6419a83c47058bb1b28dfcd",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "c87075ad8e080098d6419a83c47058bb1b28dfcd"
         }
     ],
     [
         "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\tabs\\Manfacturer__c.tab-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\tabs\\Manfacturer__c.tab-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 225,
             "modifiedTime": 1553990934681,
             "changeTime": 1553990934681,
-            "contentHash": "5abb71f306e41461e78462c6165be561dbec4bd8",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "5abb71f306e41461e78462c6165be561dbec4bd8"
         }
     ],
     [
         "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 5253,
             "modifiedTime": 1553990934694,
             "changeTime": 1553990934694,
-            "contentHash": "180347a84aaaca793ca3d2f24619dbd15caf7fdd",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "180347a84aaaca793ca3d2f24619dbd15caf7fdd"
         }
     ],
     [
         "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 20078,
             "modifiedTime": 1553990934724,
             "changeTime": 1553990934724,
-            "contentHash": "b43e0204316c4c681db960542a47d4821ca603d3",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "b43e0204316c4c681db960542a47d4821ca603d3"
         }
     ],
     [
         "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 5253,
             "modifiedTime": 1553990934734,
             "changeTime": 1553990934734,
-            "contentHash": "180347a84aaaca793ca3d2f24619dbd15caf7fdd",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "180347a84aaaca793ca3d2f24619dbd15caf7fdd"
         }
     ],
     [
         "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 5591,
             "modifiedTime": 1553990934746,
             "changeTime": 1553990934746,
-            "contentHash": "6ef8bfe0b02071fcbb427c0ff9bf69b43dbb5094",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "6ef8bfe0b02071fcbb427c0ff9bf69b43dbb5094"
         }
     ],
     [
         "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\objects\\Manfacturer__c",
         {
+            "state": "u",
             "sourcePath": "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\objects\\Manfacturer__c",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1553990934636,
             "changeTime": 1553990934636,
-            "contentHash": "e751fd7339435286626d4013ef06edc9e8846145",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "e751fd7339435286626d4013ef06edc9e8846145"
         }
     ],
     [
         "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\objects",
         {
+            "state": "u",
             "sourcePath": "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\objects",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1553990934651,
             "changeTime": 1553990934651,
-            "contentHash": "647e80077e6643da00e43e2a8bb54c09a987525a",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "647e80077e6643da00e43e2a8bb54c09a987525a"
         }
     ],
     [
         "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\objects\\Manfacturer__c\\fields",
         {
+            "state": "u",
             "sourcePath": "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\objects\\Manfacturer__c\\fields",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1553990934634,
             "changeTime": 1553990934634,
-            "contentHash": "c2b74b9f063add35ba9fb46bbb906f2f8edda0bd",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "c2b74b9f063add35ba9fb46bbb906f2f8edda0bd"
         }
     ],
     [
         "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\objects\\Manfacturer__c\\listViews",
         {
+            "state": "u",
             "sourcePath": "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\objects\\Manfacturer__c\\listViews",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1553990934636,
             "changeTime": 1553990934636,
-            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6"
         }
     ],
     [
         "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\objects\\Manfacturer_Project__c",
         {
+            "state": "u",
             "sourcePath": "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\objects\\Manfacturer_Project__c",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1553990934659,
             "changeTime": 1553990934659,
-            "contentHash": "a97c2241e289823a5488288c9590189b91cf7ea9",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "a97c2241e289823a5488288c9590189b91cf7ea9"
         }
     ],
     [
@@ -355,74 +355,61 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1553992142818,
-            "changeTime": 1553992142818,
-            "contentHash": "a2315134d160ef2b9ca4e0896d567dabe39459e4"
+            "modifiedTime": 1553990934656,
+            "changeTime": 1553990934656,
+            "contentHash": "5cee53dcbe01901925847bddcac9f6d42e321fb9"
         }
     ],
     [
         "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\objects\\Manfacturer_Project__c\\listViews",
         {
+            "state": "u",
             "sourcePath": "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\objects\\Manfacturer_Project__c\\listViews",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1553990934659,
             "changeTime": 1553990934659,
-            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6"
         }
     ],
     [
         "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\layouts",
         {
+            "state": "u",
             "sourcePath": "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\layouts",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1553990934671,
             "changeTime": 1553990934671,
-            "contentHash": "e8151779c1807aa2f0454589dcdfbbb551574eef",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "e8151779c1807aa2f0454589dcdfbbb551574eef"
         }
     ],
     [
         "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\tabs",
         {
+            "state": "u",
             "sourcePath": "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\tabs",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1553990934679,
             "changeTime": 1553990934679,
-            "contentHash": "38f77527ff7050fa654171db496bf8f8c12d7678",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "38f77527ff7050fa654171db496bf8f8c12d7678"
         }
     ],
     [
         "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\profiles",
         {
+            "state": "u",
             "sourcePath": "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\profiles",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1553990934744,
             "changeTime": 1553990934744,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\objects\\Manfacturer_Project__c\\fields\\Start_Date__c.field-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Salesforce\\SFDX\\SFDX_Demo\\force-app\\main\\default\\objects\\Manfacturer_Project__c\\fields\\Start_Date__c.field-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 314,
-            "modifiedTime": 1553992142818,
-            "changeTime": 1553992142818,
-            "contentHash": "f5b04b3370748fb868e5664a062079529159bba2"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
         }
     ]
 ]
